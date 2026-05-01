@@ -359,5 +359,3 @@ Run all cells top to bottom. Do not skip cells. Total runtime: ~10 minutes.
 - GitHub: [(https://github.com/sandeepsingh9871)]
 
 ---
-
-*Built as part of a data analytics portfolio targeting healthcare analytics and management consulting roles (Deloitte, PwC, EY, KPMG, Accenture, ZS Associates).*
