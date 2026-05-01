@@ -6,7 +6,6 @@
 ![SHAP](https://img.shields.io/badge/SHAP-Explainable%20AI-green)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
 ![Dataset](https://img.shields.io/badge/Dataset-101%2C766%20patients-lightblue)
-![Cost](https://img.shields.io/badge/Total%20Cost-₹0-brightgreen)
 
 ---
 
