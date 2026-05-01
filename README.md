@@ -54,8 +54,6 @@ healthcare-readmission/
 │
 ├── Healthcare_Readmission_FINAL.ipynb    # Complete project — all days in one notebook
 ├── README.md                             # This file
-├── requirements.txt                      # Python dependencies
-│
 ├── data/
 │   └── sample_data.csv                   # 500-row sample (full dataset on Kaggle)
 │
