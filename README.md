@@ -330,7 +330,7 @@ Run all cells top to bottom. Do not skip cells. Total runtime: ~10 minutes.
 
 ---
 
-## 📋 Files to Upload on GitHub
+## 📋 Files Uploaded on GitHub
 
 ```
 ✅ healthcare_readmission.ipynb   — main notebook
@@ -342,11 +342,6 @@ Run all cells top to bottom. Do not skip cells. Total runtime: ~10 minutes.
 ✅ outputs/eda_charts/06_inpatient_visits_readmission.png
 ✅ outputs/eda_charts/07_correlation_heatmap.png
 
-❌ diabetic_data.csv                   — too large, link to Kaggle instead
-❌ cleaned_diabetic_data.csv           — generated file, not needed
-❌ data/processed/*.pkl                — binary files, no use on GitHub
-❌ models/xgb_model.pkl               — too large for GitHub
-❌ predictions.csv / shap_summary.csv — generated files
 ```
 
 ---
